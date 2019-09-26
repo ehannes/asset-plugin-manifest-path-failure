@@ -7,7 +7,6 @@
   "dependencies": {
     "gatsby": "^2.15.24",
     "gatsby-image": "^2.2.21",
-    "gatsby-plugin-asset-path": "^1.0.2",
     "gatsby-plugin-manifest": "^2.2.18",
     "gatsby-plugin-offline": "^3.0.9",
     "gatsby-plugin-react-helmet": "^3.1.8",
@@ -21,6 +20,7 @@
     "react-helmet": "^5.2.1"
   },
   "devDependencies": {
+    "gatsby-plugin-asset-path": "^1.0.2",
     "prettier": "^1.18.2"
   },
   "keywords": [
